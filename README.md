@@ -1,2 +1,3 @@
 # Speedrun-Ethereum-Challenges
-Challenges from the Speedrun Ethereum Series
+In progress, and completed challenges from the Speedrun Ethereum series.
+- https://speedrunethereum.com/
